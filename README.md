@@ -3,7 +3,7 @@
 ```mermaid
 flowchart LR
     A((1)) --> B((2)) -->C((4))
-    style A fill:red
+    style A fill:#ff1440,color:#fff
 ```
 
 
