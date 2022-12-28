@@ -10,7 +10,7 @@ flowchart LR
     style A2 fill:#166dda,color:#fff
     style B2 fill:#166dda,color:#fff
     style C2 fill:#166dda,color:#fff
-    ---------------------------------
+---------------------------------
     A2((1)) --> A1((1)) --> B1((2)) --> B2((3)) --> C1((4)) --> C2((4))
     
 ```
