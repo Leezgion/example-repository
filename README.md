@@ -2,7 +2,8 @@
 
 ```mermaid
 flowchart LR
-A((1)) --> B((2)) -->C((4))
+    A((1)) --> B((2)) -->C((4))
+    style A fill:red
 ```
 
 
