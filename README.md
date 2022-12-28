@@ -2,8 +2,16 @@
 
 ```mermaid
 flowchart LR
-    A((1)) --> B((2)) -->C((4))
-    style A fill:#ff1440,color:#fff
+    A1((1)) --> B1((2)) -->C1((4))
+    style A1 fill:#ff1440,color:#fff
+    style B1 fill:#ff1440,color:#fff
+    style C1 fill:#ff1440,color:#fff
+    A2((1)) --> B2((3)) -->C2((4))
+    style A2 fill:#166dda,color:#fff
+    style B2 fill:#166dda,color:#fff
+    style C2 fill:#166dda,color:#fff
+    A2((1)) --> A1((1)) --> B1((2)) B2((3)) --> C1((4)) --> C2((4))
+    
 ```
 
 
