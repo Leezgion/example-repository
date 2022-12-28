@@ -1,4 +1,18 @@
 # example-repository
+
+```mermaid
+flowchart LR
+A((1)) --> B((2)) -->C((4))
+```
+
+
+
+
+
+
+
+
+
 123
 [链接](https://b2b.partcommunity.com/community/knowledge/zh_CN/detail/10753/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97#knowledge_article)
 ## SubHeader
